@@ -2,5 +2,3 @@
 Artigo Cientifico - Universidade Presbiteriana Mackenzie
 
 
-
-teste
